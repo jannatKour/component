@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 1,
+    "title" : "Star wars",
+    "rating" : 4,
+    "length" : 120
+  },
+  {
+     "id" : 2,
+    "title" : "Star trek",
+    "rating" : 5,
+    "length" : 150
+  },
+  {
+     "id" : 3,
+    "title" : "Terminator",
+    "rating" : 3,
+    "length" : 140
+  },
+  {
+     "id" : 4,
+    "title" : "A walk to remember",
+    "rating" : 5,
+    "length" : 180
+  },
+  {
+     "id" : 5,
+    "title" : "Despicables",
+    "rating" : 2,
+    "length" : 120
+  }
+]
